@@ -37,6 +37,11 @@ XAI_API_KEY=xx_your_key_xx
 ### Gereksinimler
 - Flutter 3.8+
 - xAI API anahtarı
+- cupertino_icons: ^1.0.8
+- image_picker: ^1.1.2
+- http: ^1.2.2
+- path_provider: ^2.1.4
+- flutter_dotenv: ^5.1.0
 
 ### Önemli Dosyalar
 - `lib/main.dart`: UI
